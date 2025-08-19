@@ -23,7 +23,7 @@ Follow these steps to set up and run the project on your local machine.
 2. Setup and Installation
    a. Clone the repository (or download the files):
 
-git clone https://github.com/your-username/invoice-automator.git
+git clone https://github.com/Sheulydsp/invoice-automator.git
 cd invoice-automator
 
 b. Create and activate a virtual environment:
